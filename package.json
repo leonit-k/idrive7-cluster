@@ -1,0 +1,10 @@
+{
+  "name": "mgu-app-kit",
+  "private": true,
+  "type": "commonjs",
+  "devDependencies": {
+    "@playwright/test": "^1.65.0",
+    "@types/node": "^26.6.6"
+  },
+  "scripts": {}
+}
